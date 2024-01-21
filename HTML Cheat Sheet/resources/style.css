@@ -1,0 +1,54 @@
+
+html {
+    background-color: #669;
+}
+* {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Handlee", cursive;
+    font-size: 11pt;
+    font-weight: 600;
+    font-style: normal; 
+    letter-spacing: 1px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 28pt;
+    color: white;
+}
+
+div {
+    margin-top: 2em;
+}
+
+table {
+    border: 2px solid;
+    border-color: rgb(165, 109, 5);
+    border-radius: 25px;
+}
+
+td {
+    padding: 0px 10px;
+}
+
+.col1 {
+    color: rgb(8, 180, 51);
+}
+
+.col2 {
+    color: rgb(253, 211, 22);
+}
+
+.indent1 {
+    text-indent: 2em;
+}
+
+.indent2 {
+    text-indent: 4em;
+}
+
+.indent3 {
+    text-indent: 6em;
+}
